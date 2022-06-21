@@ -1,16 +1,16 @@
 ### Olá, sou Davi 👋
 Eu trabalho como instrutor de Desenvolvimento de Sistemas, utilizando linguagens de programação C e Java. Em sala de aula desenvolvo sistemas web e desktop com Java, HTML, CSS, JavaScript e banco de dados MySQL.
 
-- 🌱 Sigo desenvolvendo habilidades técnicas com JavaScript, React e React Native. 
+- 🌱 Sigo aprendendo habilidades técnicas com JavaScript, React e React Native. 
 - 👨🏾‍💻 Gosto de desafios e sempre busco novidades.
 <a target="_blank" href="https://www.linkedin.com/in/davi-saldanha-20/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/davisaldanhati/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a target="_blank" href="mailto:davisaldanha.ti@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a><br>
   
   ----
