@@ -1,10 +1,6 @@
 ### Olá, sou Davi 👋
 Eu sou desenvolvedor Back-end e trabalho como Developer Instructor. Possuo habilidades técnicas em Java e Javascript com foco para Back-end.
 
-- 🌱 Sigo desenvolvendo conhecimento em React para me tornar um desenvolvedor FullStack
-- 📚 Procuro transmitir meu conhecimento com clareza e objetividade
-- 👨🏾‍💻 Gosto de desafios e sempre procuro me manter atualizado.
-
 <!--
 <a target="_blank" href="https://www.linkedin.com/in/davi-saldanha-20/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
