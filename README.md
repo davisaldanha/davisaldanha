@@ -1,37 +1,81 @@
-### Olá, sou Davi 👋
-Eu sou desenvolvedor Back-end e trabalho como Developer Instructor. Possuo habilidades técnicas em Java e Javascript com foco para Back-end.
+<h1 align="center">👨‍💻 Davi Saldanha</h1>
+<p align="center">
+Desenvolvedor de Sistemas | Fullstack em evolução | Apaixonado por Arquitetura de Software
+</p>
 
-<!--
-<a target="_blank" href="https://www.linkedin.com/in/davi-saldanha-20/">
-  <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a target="_blank" href="https://www.instagram.com/davisaldanhati/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a target="_blank" href="mailto:davisaldanha.ti@gmail.com">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><br> -->
-  ----
-  **Linguagens e Ferramentas:**  
-  <div style="display: inline_block">
-    <img align="center" alt="MrDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="MrDev-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-    <img align="center" alt="MrDev-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="MrDev-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-     <img align="center" alt="MrDev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="MrDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="MrDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="MrDev-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="MrDev-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-    
-  </div>
+<p align="center">
+  <a href="https://github.com/davisaldanha"><img src="https://img.shields.io/github/followers/davisaldanha?style=social"></a>
+  <a href="https://linkedin.com/in/davi-saldanha-20"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"></a>
+  <a href="mailto:davisaldanha.ti@email.com"><img src="https://img.shields.io/badge/Email-davisaldanha@email.com-red?logo=gmail&style=flat"></a>
+</p>
 
-<!----
-<div align="center">
-  <a href="https://github.com/davisaldanha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davisaldanha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisaldanha&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+---
 
----->
+## 🚀 Sobre Mim
+
+Sou desenvolvedor com 5 anos de experiência e formação técnica em **Análise e Desenvolvimento de Sistemas**. Trabalho com foco em qualidade, escalabilidade e boas práticas. Busco evoluir como **Fullstack Developer** com domínio em **arquitetura de software**.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### ⚙️ Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+
+### 🗄️ Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+
+### 🧪 Testes
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress)
+
+### 📚 Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello)  
+![Framer](https://img.shields.io/badge/Framer-000000?style=flat&logo=framer)
+
+---
+
+## 🌟 Projeto em Destaque
+
+### 🔗 [DSOFTNPS](https://github.com/davisaldanha/dsoftnps)
+Sistema em Python com Flask para envio semanal de e-mails promocionais de uma loja comercial.
+
+**Funcionalidades:**
+- Coleta de e-mails via página de satisfação do cliente
+- Armazenamento seguro com SQLite
+- Compatível com LGPD: exclusão de dados sob solicitação
+- Automatização do envio de campanhas promocionais
+
+---
+
+## 🎯 Objetivos Profissionais
+
+- Tornar-me um **desenvolvedor Fullstack completo**
+- Aprimorar habilidades em **arquitetura de software**
+- Contribuir com projetos escaláveis e com impacto real
+
+---
+
+## ✨ Curiosidades
+
+- Sempre aprendendo algo novo — atualmente estudando arquitetura limpa e design de APIs  
+- Gosto de resolver problemas com soluções simples e elegantes  
+- Aberto a colaborações, freelas e desafios técnicos
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! 🚀  
+</p>
