@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Davi Saldanha</h1>
 <p align="center">
-Desenvolvedor de Sistemas | Fullstack em evolução | Apaixonado por Arquitetura de Software
+Desenvolvedor de Sistemas | Engenheiro de Dados em evolução | Apaixonado por Arquitetura de Software
 </p>
 
 <p align="center">
