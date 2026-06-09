@@ -4,25 +4,26 @@ Desenvolvedor de Sistemas | Engenheiro de Dados em evolução | Apaixonado por A
 </p>
 
 <p align="center">
-  <a href="https://github.com/davisaldanha"><img src="https://img.shields.io/github/followers/davisaldanha?style=social"></a>
+  <a href="https://github.com/davisaldanha"><img src="https://img.shields.io/github/followers/davisaldanha"></a>
   <a href="https://linkedin.com/in/davi-saldanha-20"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat"></a>
-  <a href="mailto:davisaldanha.ti@email.com"><img src="https://img.shields.io/badge/Email-davisaldanha@email.com-red?logo=gmail&style=flat"></a>
+  <a href="mailto:davisaldanha.ti@gmail.com.com"><img src="https://img.shields.io/badge/Email-davisaldanha@gmail.com-red?logo=gmail&style=flat"></a>
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor com 5 anos de experiência e formação técnica em **Análise e Desenvolvimento de Sistemas**. Trabalho com foco em qualidade, escalabilidade e boas práticas. Busco evoluir como **Fullstack Developer** com domínio em **arquitetura de software**.
+Sou desenvolvedor com +5 anos de experiência e formação técnica em **Análise e Desenvolvimento de Sistemas**. Atualmente tenho atuado como professor de programação de forma integral, potencializando novos desenvolvedores para o mercado de trabalho. Em minhas atividades prezo pela organização, utilizando método Kaban para gerenciar todas as minhas entregas. Tenho evoluído meu conhecimento na área de Dados com foco em arquitetura e armazenamento de dados. Procuro me manter atualizado através de participações em eventos e acompanhando experts da área.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stacks
 
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+**💻 Linguagens**
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### ⚙️ Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot)  
